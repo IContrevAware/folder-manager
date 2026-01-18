@@ -1,0 +1,8 @@
+Images=.jpg,.jpeg,.png,.gif,.webp,.bmp
+Videos=.mp4,.mkv,.avi,.mov,.webm
+Audio=.mp3,.wav,.flac,.aac,.ogg
+Documents=.pdf,.docx,.doc,.xlsx,.pptx,.txt
+Archives=.zip,.rar,.7z,.tar,.gz
+EXEcutables=.exe,.msi,.msix
+Torrents=.torrent
+Other=
